@@ -112,7 +112,7 @@ weight: 2
 <tr><td>3</td><td>奇獸飼育學</td></tr>
 <tr><td>4</td><td>占卜學</td></tr>
 <tr><td>5</td><td>麻瓜研究</td></tr>
-<tr><td>5</td><td>魁地奇</td></tr>
+<tr><td>6</td><td>魁地奇</td></tr>
 </table>
 <--->
 {{< /columns >}}
@@ -178,7 +178,7 @@ Adebayo, Ali, Bagshot, Chowdhry, Davies, Diaz, Dubois, Finnigan, Goldstein, Grin
 
 <table>
 <tr><th colspan='2'>葛來分多</th></tr>
-<tr><td>1</td><td>我曾因為你們之中的誰在高年級學生欺負你時挺身而出？ (朋友)</td></tr>
+<tr><td>1</td><td>我曾因為你們之中的誰在被高年級學生欺負時挺身而出？ (朋友)</td></tr>
 <tr><td>2</td><td>你們之中的誰曾經與我一起公開反抗某個不公平的教授，並因此跟我一起被罰勞動服務？ (朋友)</td></tr>
 <tr><td>3</td><td>你們之中的誰是我在魁地奇隊上最棒的隊友？ (朋友)</td></tr>
 <tr><td>4</td><td>你們之中的誰是我在需要從圖書館找些什麼時會去拜託幫助的人？ (朋友) </td></tr>

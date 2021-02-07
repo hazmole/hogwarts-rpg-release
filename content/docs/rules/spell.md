@@ -95,19 +95,19 @@ weight: 7
 
 ### 三年級
 {{< details title="三年級咒語列表" open=true >}}
-* <i class='SpellIcon charm'></i> Herbivicus – Plant Growth Charm 
-* <i class='SpellIcon charm'></i> Illegibilus – Text-Scrambling Charm 
+* <i class='SpellIcon charm'></i> 速速生 (Herbivicus) – 草木生長咒
+* <i class='SpellIcon charm'></i> 糊糊難閱 (Illegibilus) – 字跡模糊咒
 * <i class='SpellIcon charm'></i> 止止—不透 (Impervius) – 水火不侵咒 
 * <i class='SpellIcon charm'></i> 呼呼，前咒現 (Prior Incantato) – 驅使「符咒倒轉效應」的咒語 
 * <i class='SpellIcon transfigure'></i> 噗噗蘭 (Orchideous) – 花朵召喚咒 
 * <i class='SpellIcon transfigure'></i> 恢復原形 (Reparifarge) – 復原變形術效果的咒語 
-* <i class='SpellIcon hex'></i> Anteoculatia – Antler-Growing Hex 
-* <i class='SpellIcon hex'></i> Colloshoo – Stickfast Hex 
+* <i class='SpellIcon hex'></i> 叉叉鹿角 (Anteoculatia) – 犄角咒
+* <i class='SpellIcon hex'></i> 膠膠鞋 (Colloshoo) – 黏腳咒
 * <i class='SpellIcon hex'></i> 暴暴吞 (Engorgio) – 暴食咒 
 * <i class='SpellIcon hex'></i> 塔朗泰拉跳 (Tarantallegra) – 跳舞咒
-* <i class='SpellIcon curse'></i> Mimble Wimble – Tongue-Tying Curse 
+* <i class='SpellIcon curse'></i> 結結舌 (Mimble Wimble) – 鎖舌惡咒 
 * <i class='SpellIcon defence'></i> 叱叱，荒唐 (Riddikulus) – 幻形怪驅逐咒 
-* <i class='SpellIcon healing'></i> 咕咕圈 (Ferula) – Splinting/Bandaging Spell
+* <i class='SpellIcon healing'></i> 咕咕圈 (Ferula) – 夾板/繃帶咒
 * <i class='SpellIcon potion'></i> 消腫劑
 * <i class='SpellIcon potion'></i> 提神劑 – 治療感冒的魔藥 
 * <i class='SpellIcon potion'></i> 格瑞奉承劑 – 友誼魔藥 
@@ -118,23 +118,23 @@ weight: 7
 ### 四年級
 {{< details title="四年級咒語列表" open=true >}}
 * <i class='SpellIcon charm'></i> 速速前 (Accio) – 召喚咒
-* <i class='SpellIcon charm'></i> Depulso – 驅逐咒 
+* <i class='SpellIcon charm'></i> 疾疾退 (Depulso) – 驅逐咒 
 * <i class='SpellIcon charm'></i> 吩吩綻 (Diffindo) – 切除咒 
 * <i class='SpellIcon charm'></i> 噓噓靜 (Quietus) – 悄聲咒 
 * <i class='SpellIcon charm'></i> 哄哄響 (Sonorus) – 擴音咒 
 * <i class='SpellIcon charm'></i> 咄咄失 (Stupefy) – 昏擊咒
 * <i class='SpellIcon transfigure'></i> 飛飛禽 (Avis) – 飛鳥召喚咒  
 * <i class='SpellIcon transfigure'></i> 繩繩禁 (Incarcerous) – 召喚繩索綑綁的咒語 
-* <i class='SpellIcon hex'></i> 涎涎牙 (Densaugeo) – Teeth-Elongating Hex 
-* <i class='SpellIcon hex'></i> 熔熔沸 (Furnunculus) – Pimple/Boil Jinx
-* <i class='SpellIcon hex'></i> 噴噴障 (Impedimenta) – 障礙惡咒 
+* <i class='SpellIcon hex'></i> 涎涎牙 (Densaugeo) – 門牙增長咒
+* <i class='SpellIcon hex'></i> 熔熔沸 (Furnunculus) – 面皰/膿瘡毒咒
+* <i class='SpellIcon hex'></i> 噴噴障 (Impedimenta) – 障礙咒 
 * <i class='SpellIcon hex'></i> 腿軟腳綿 (Locomotor Wibbly) – 果醬腿惡咒
 * <i class='SpellIcon curse'></i> 嚗嚗消 (Reducto) – 消除咒
-* <i class='SpellIcon healing'></i> 復復元 (Episkey) – Minor Healing Spell 
-* <i class='SpellIcon potion'></i> Blemish Blitzer – Acne Treatment Potion 
-* <i class='SpellIcon potion'></i> Fire Protection Potion 
-* <i class='SpellIcon potion'></i> Laxative Potion 
-* <i class='SpellIcon potion'></i> Invigoration Draught (Potion)
+* <i class='SpellIcon healing'></i> 復復元 (Episkey) – 次級治療咒
+* <i class='SpellIcon potion'></i> 瑕斑突擊劑 – 粉刺治療藥水
+* <i class='SpellIcon potion'></i> 防護火焰藥水
+* <i class='SpellIcon potion'></i> 瀉藥
+* <i class='SpellIcon potion'></i> 活力滋補劑
 {{< /details >}}
 
 ### 五年級
@@ -176,10 +176,10 @@ weight: 7
 * <i class='SpellIcon curse'></i> 雙雙製 (Geminio) – 複製物品惡咒 
 * <i class='SpellIcon healing'></i> Emendo – 骨頭癒合咒 
 * <i class='SpellIcon potion'></i> 一飲活死水 (魔藥) 一種強效的安眠藥
-* <i class='SpellIcon potion'></i> Garroting Gas – Choking Potion 
-* <i class='SpellIcon potion'></i> Strengthening Solution (Potion) 
+* <i class='SpellIcon potion'></i> 鎖喉毒氣 – 窒息魔藥
+* <i class='SpellIcon potion'></i> 增強劑
 * <i class='SpellIcon potion'></i> 吐真劑 – 能讓人說出真話的魔藥
-* <i class='SpellIcon potion'></i> Veritaserum Antidote (Potion)
+* <i class='SpellIcon potion'></i> 吐真劑解藥
 {{< /details >}}
 **你必須通過測驗並從魔法部取得許可才可以施展現影術。 
 
@@ -197,12 +197,12 @@ weight: 7
 * <i class='SpellIcon hex'></i> Vermiculus – Worm Hex
 * <i class='SpellIcon curse'></i> Confrigo – Blasting Curse 
 * <i class='SpellIcon defence'></i> 固若金湯 (Fianto Duri) – Increase Protection Spell 
-* <i class='SpellIcon healing'></i> Blood-Replenishing Potion 
-* <i class='SpellIcon potion'></i> Euphoria Elixir (Potion) 
-* <i class='SpellIcon potion'></i> 福來福喜 (Felix Felicis) – 幸運水
-* <i class='SpellIcon potion'></i> Forgetfulness Potion 
-* <i class='SpellIcon potion'></i> 變身水 (Polyjuice Potion) – 可變成其他人的樣貌
-* <i class='SpellIcon potion'></i> 生骨靈 (Skele-Gro) – Bone Regrowth Potion
+* <i class='SpellIcon healing'></i> 補血藥
+* <i class='SpellIcon potion'></i> 歡欣劑
+* <i class='SpellIcon potion'></i> 福來福喜 – 幸運水
+* <i class='SpellIcon potion'></i> 遺忘藥水
+* <i class='SpellIcon potion'></i> 變身水 – 可變成其他人的樣貌
+* <i class='SpellIcon potion'></i> 生骨靈 – 骨頭重生藥水
 {{< /details >}}
 *** 製作港口鑰需要魔法部許可。
 

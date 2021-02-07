@@ -36,15 +36,7 @@
 #
 有時候，女巫或巫師會在面對怪物時感到懼怕、因為太沉重的課業感到緊張、或嫉妒朋友的戀情。他們也可能會因為從掃帚上墜落而摔斷手臂、或在被詛咒擊中時發現自己不斷嘔出蛞蝓。這些負面情況被稱作「狀態」。狀態可以是心理層面或生理層面的。當某人擲骰失敗時，他們可能會因此標記狀態作為失敗的後果。
 八個可能的狀態為：恐懼、憤怒、緊張、嫉妒、難堪、負傷、中咒、失去意識。
-心理狀態，像是恐懼、憤怒、緊張、嫉妒、和難堪，會在女巫或巫師屈服於這些負面情緒時隨之消失。它們也可以透過其他女巫或巫師的安慰或支持來被清除、或者透過花時間陪伴他們的寵物來轉變成另一個狀態。
-生理狀態，像是負傷、中咒、和失去意識，必須使用醫藥或魔法來治癒。
-當你的八個狀態全都被標記時，你將必須立刻進行一個退場動作來確定自己是否從故事中退場。
-幸運
-#
-每一名女巫或巫師都擁有一小搓可以讓他們在緊要關頭時發揮的運氣。當玩家打算做一件他們正常來說做不到的行動，像是施放一個他們並不清楚的魔咒、或是在魁地奇比賽中完成一個幾乎不可能的捕捉，他們可以標記一點幸運以讓這件事發生。每個女巫或巫師都擁有３點幸運。
-經驗值
-#
-當你擲骰失敗時，你可以標記一點經驗值。一旦你得到了４點經驗值，你就可以立即取得一項成長！接著清除你所有已標記的經驗值。</description></item><item><title>創造你的女巫／巫師</title><link>https://hazmole.github.io/hogwarts-rpg-release/docs/rules/create-your-characters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/hogwarts-rpg-release/docs/rules/create-your-characters/</guid><description>創造你的女巫／巫師
+恐懼: 英勇屬性-2，直到你逃避了困難。 憤怒: 狡詐屬性-2，直到你傷害了某人或破壞了某物。 緊張: 聰穎屬性-2，直到你說出了會傷害某人的話語。 嫉妒: 忠誠屬性-2，直到你背叛了朋友。 難堪: 魔法屬性-2，直到你以錯誤的方式理解了某個評論。 負傷: 所有屬性-1，直到你接受了醫藥或魔法的治療。 中咒: 一個敘事者選擇的屬性-1，直到被治療。 失去意識: 直到甦醒前無法採取行動，你可以透過標記其他狀態來避免標記這個狀態。 心理狀態，像是恐懼、憤怒、緊張、嫉妒、和難堪，會在女巫或巫師屈服於這些負面情緒時隨之消失。它們也可以透過其他女巫或巫師的安慰或支持來被清除、或者透過花時間陪伴他們的寵物來轉變成另一個狀態。</description></item><item><title>創造你的女巫／巫師</title><link>https://hazmole.github.io/hogwarts-rpg-release/docs/rules/create-your-characters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hazmole.github.io/hogwarts-rpg-release/docs/rules/create-your-characters/</guid><description>創造你的女巫／巫師
 #
 要創造你的女巫或巫師，請跟隨以下步驟。你可以為每個表格擲個 d6 來隨機決定選項，或者直接挑選你最喜歡的選項，或者擲骰跟自選混合使用。
 1. 你是幾年級的學生？
@@ -213,11 +205,11 @@
 三年級
 #
 三年級咒語列表
-Herbivicus – Plant Growth Charm Illegibilus – Text-Scrambling Charm 止止—不透 (Impervius) – 水火不侵咒 呼呼，前咒現 (Prior Incantato) – 驅使「符咒倒轉效應」的咒語 噗噗蘭 (Orchideous) – 花朵召喚咒 恢復原形 (Reparifarge) – 復原變形術效果的咒語 Anteoculatia – Antler-Growing Hex Colloshoo – Stickfast Hex 暴暴吞 (Engorgio) – 暴食咒 塔朗泰拉跳 (Tarantallegra) – 跳舞咒 Mimble Wimble – Tongue-Tying Curse 叱叱，荒唐 (Riddikulus) – 幻形怪驅逐咒 咕咕圈 (Ferula) – Splinting/Bandaging Spell 消腫劑 提神劑 – 治療感冒的魔藥 格瑞奉承劑 – 友誼魔藥 安眠劑 腫脹藥水
+速速生 (Herbivicus) – 草木生長咒 糊糊難閱 (Illegibilus) – 字跡模糊咒 止止—不透 (Impervius) – 水火不侵咒 呼呼，前咒現 (Prior Incantato) – 驅使「符咒倒轉效應」的咒語 噗噗蘭 (Orchideous) – 花朵召喚咒 恢復原形 (Reparifarge) – 復原變形術效果的咒語 叉叉鹿角 (Anteoculatia) – 犄角咒 膠膠鞋 (Colloshoo) – 黏腳咒 暴暴吞 (Engorgio) – 暴食咒 塔朗泰拉跳 (Tarantallegra) – 跳舞咒 結結舌 (Mimble Wimble) – 鎖舌惡咒 叱叱，荒唐 (Riddikulus) – 幻形怪驅逐咒 咕咕圈 (Ferula) – 夾板/繃帶咒 消腫劑 提神劑 – 治療感冒的魔藥 格瑞奉承劑 – 友誼魔藥 安眠劑 腫脹藥水
 四年級
 #
 四年級咒語列表
-速速前 (Accio) – 召喚咒 Depulso – 驅逐咒 吩吩綻 (Diffindo) – 切除咒 噓噓靜 (Quietus) – 悄聲咒 哄哄響 (Sonorus) – 擴音咒 咄咄失 (Stupefy) – 昏擊咒 飛飛禽 (Avis) – 飛鳥召喚咒 繩繩禁 (Incarcerous) – 召喚繩索綑綁的咒語 涎涎牙 (Densaugeo) – Teeth-Elongating Hex 熔熔沸 (Furnunculus) – Pimple/Boil Jinx 噴噴障 (Impedimenta) – 障礙惡咒 腿軟腳綿 (Locomotor Wibbly) – 果醬腿惡咒 嚗嚗消 (Reducto) – 消除咒 復復元 (Episkey) – Minor Healing Spell Blemish Blitzer – Acne Treatment Potion Fire Protection Potion Laxative Potion Invigoration Draught (Potion)
+速速前 (Accio) – 召喚咒 疾疾退 (Depulso) – 驅逐咒 吩吩綻 (Diffindo) – 切除咒 噓噓靜 (Quietus) – 悄聲咒 哄哄響 (Sonorus) – 擴音咒 咄咄失 (Stupefy) – 昏擊咒 飛飛禽 (Avis) – 飛鳥召喚咒 繩繩禁 (Incarcerous) – 召喚繩索綑綁的咒語 涎涎牙 (Densaugeo) – 門牙增長咒 熔熔沸 (Furnunculus) – 面皰/膿瘡毒咒 噴噴障 (Impedimenta) – 障礙咒 腿軟腳綿 (Locomotor Wibbly) – 果醬腿惡咒 嚗嚗消 (Reducto) – 消除咒 復復元 (Episkey) – 次級治療咒 瑕斑突擊劑 – 粉刺治療藥水 防護火焰藥水 瀉藥 活力滋補劑
 五年級
 #
 五年級咒語列表
