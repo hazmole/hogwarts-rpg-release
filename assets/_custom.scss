@@ -1,0 +1,88 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+
+th {
+	background: #2b2b2b;
+	font-weight: bold;
+}
+td {
+	line-height: 1em;
+}
+
+.markdown h1 {
+	color: #7095fd;
+	font-weight: bold;
+}
+
+.markdown h2 {
+	color: #73b3f5;
+	font-weight: bold;
+}
+
+.markdown h3 {
+	color: #73d7f5;
+	font-weight: bold;
+}
+
+.markdown h4 {
+	margin-top: 2em;
+	margin-bottom: .5em;
+}
+
+.Move {
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	padding: 1rem;
+	margin: 0.5em 0 1em;
+	border-radius: .25rem;
+}
+.Move > h2 , .Move > h3 {
+	font-weight: bold;
+	margin-top: 0.4em;
+}
+.Move > p:last-child {
+	margin-bottom: 0.4em;
+}
+
+.SpellIcon {
+	width: 20px;
+	height: 20px;
+	background-size: 20px 20px;
+	display: inline-block;
+	margin-bottom: -.2em;
+	margin-right: .2em;
+}
+.SpellIcon.charm {
+	background-image: url("./img/seven-pointed-star.png");
+}
+.SpellIcon.transfigure {
+	background-image: url("./img/doubled.png");
+}
+.SpellIcon.curse {
+	background-image: url("./img/electric.png");
+}
+.SpellIcon.hex {
+	background-image: url("./img/spikes-init.png");
+}
+.SpellIcon.healing {
+	background-image: url("./img/hearts.png");
+}
+.SpellIcon.defence {
+	background-image: url("./img/police-badge.png");
+}
+.SpellIcon.potion {
+	background-image: url("./img/potion-ball.png");
+}
+.SpellIcon.unforgivable {
+	background-image: url("./img/death-skull.png");
+}
+
+
+.book-section-flat > span {
+	color: #b79fff;
+}
+
+
+summary { color: #b7b7b7; }
+tag { color: #73d7f5; }
+b { color: #c494f9; }
