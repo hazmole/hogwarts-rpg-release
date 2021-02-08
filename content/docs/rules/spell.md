@@ -105,7 +105,7 @@ weight: 7
 * <i class='SpellIcon hex'></i> 膠膠鞋 (Colloshoo) – 黏腳咒
 * <i class='SpellIcon hex'></i> 暴暴吞 (Engorgio) – 暴食咒 
 * <i class='SpellIcon hex'></i> 塔朗泰拉跳 (Tarantallegra) – 跳舞咒
-* <i class='SpellIcon curse'></i> 結結舌 (Mimble Wimble) – 鎖舌惡咒 
+* <i class='SpellIcon curse'></i> 結結舌 (Mimble Wimble) – 舌頭打結咒 
 * <i class='SpellIcon defence'></i> 叱叱，荒唐 (Riddikulus) – 幻形怪驅逐咒 
 * <i class='SpellIcon healing'></i> 咕咕圈 (Ferula) – 夾板/繃帶咒
 * <i class='SpellIcon potion'></i> 消腫劑
@@ -139,18 +139,18 @@ weight: 7
 
 ### 五年級
 {{< details title="五年級咒語列表" open=true >}}
-* <i class='SpellIcon charm'></i> Aperio – Opening Charm 
+* <i class='SpellIcon charm'></i> 阿沛立歐 (Aperio) – 開箱咒
 * <i class='SpellIcon charm'></i> 密密膠 (Colloportus) – 鎖定咒
 * <i class='SpellIcon charm'></i> 疾疾，護法現身 (Expecto Patronum) – 護法咒*
 * <i class='SpellIcon charm'></i> 去去麻瓜走 (Repello Muggletum) – 麻瓜驅逐咒 
 * <i class='SpellIcon charm'></i> 默默靜 (Silencio) – 靜默咒 
-* <i class='SpellIcon charm'></i> 原形立現 (Specialis Revelio) – Hex-Revealing Charm 
+* <i class='SpellIcon charm'></i> 原形立現 (Specialis Revelio) – 惡咒揭露咒
 * <i class='SpellIcon transfigure'></i> 消消藏 (Evanesco) – 消失咒 
-* <i class='SpellIcon hex'></i> Cantis – Singing Hex 
-* <i class='SpellIcon hex'></i> 衝衝攻 (Oppugno) – Attacking Objects Hex
-* <i class='SpellIcon hex'></i> 嘶嘶退 (Relashio) – Releasing Hex 
-* <i class='SpellIcon defence'></i> 全全破心護 (Protego Totalum) – Shield Area Spell
-* <i class='SpellIcon healing'></i> 路路通 (Anapneo) – Reverse Choking Spell
+* <i class='SpellIcon hex'></i> 音音吟 (Cantis) – 歌唱毒咒
+* <i class='SpellIcon hex'></i> 衝衝攻 (Oppugno) – 物品攻擊咒
+* <i class='SpellIcon hex'></i> 嘶嘶退 (Relashio) – 抽離咒
+* <i class='SpellIcon defence'></i> 全全破心護 (Protego Totalum) – 範圍屏障咒
+* <i class='SpellIcon healing'></i> 路路通 (Anapneo) – 暢通堵塞咒
 * <i class='SpellIcon healing'></i> 速速癒合 (Vulnera Sanentur) – 撕淌三步殺咒唯一已知的解咒
 * <i class='SpellIcon potion'></i> 意亂情迷水 – 現有最強大有效的愛情魔藥
 * <i class='SpellIcon potion'></i> 迷惑劑
@@ -163,18 +163,18 @@ weight: 7
 ### 六年級
 {{< details title="六年級咒語列表" open=true >}}
 * <i class='SpellIcon charm'></i> 糊糊迷 (Confundo) – 迷糊咒 
-* <i class='SpellIcon charm'></i> 窟窿現 (Deprimo) – Hole-Blasting Charm 
-* <i class='SpellIcon charm'></i> 嗡嗡鳴 (Muffliato) – Ear-Buzzing Charm 
-* <i class='SpellIcon charm'></i> Revelio – Revealing Charm
+* <i class='SpellIcon charm'></i> 窟窿現 (Deprimo) – 窟窿爆破咒
+* <i class='SpellIcon charm'></i> 嗡嗡鳴 (Muffliato) – 耳鳴咒
+* <i class='SpellIcon charm'></i> 秘秘現 (Revelio) – 揭露咒
 * <i class='SpellIcon transfigure'></i> 水水噴 (Aguamenti) – 造水咒
 * <i class='SpellIcon transfigure'></i> 現影、消影 (Apparate, Disapparte) – 現影術、消影術**
-* <i class='SpellIcon hex'></i> Ebublio – 氣泡咒 
-* <i class='SpellIcon hex'></i> 全速擊退 / 退敵三尺 (Flipendo) – 擊退咒 
-* <i class='SpellIcon hex'></i> 噤噤言 (Langlock) – Tongue-Locking Hex 
-* <i class='SpellIcon hex'></i> Melofors – Pumpkin-Head Hex 
-* <i class='SpellIcon hex'></i> Pullus – 雞/鵝變形咒 
+* <i class='SpellIcon hex'></i> 封封泡 (Ebublio) – 氣泡咒 
+* <i class='SpellIcon hex'></i> 退敵三尺 (Flipendo) – 擊退咒 
+* <i class='SpellIcon hex'></i> 噤噤言 (Langlock) – 鎖舌惡咒
+* <i class='SpellIcon hex'></i> 砰砰南瓜 (Melofors) – 南瓜頭毒咒
+* <i class='SpellIcon hex'></i> 呱呱身變 (Pullus) – 雞/鵝變形咒 
 * <i class='SpellIcon curse'></i> 雙雙製 (Geminio) – 複製物品惡咒 
-* <i class='SpellIcon healing'></i> Emendo – 骨頭癒合咒 
+* <i class='SpellIcon healing'></i> 骨骨復 (Emendo) – 骨頭癒合咒 
 * <i class='SpellIcon potion'></i> 一飲活死水 (魔藥) 一種強效的安眠藥
 * <i class='SpellIcon potion'></i> 鎖喉毒氣 – 窒息魔藥
 * <i class='SpellIcon potion'></i> 增強劑
@@ -186,17 +186,17 @@ weight: 7
 ### 七年級
 {{< details title="七年級咒語列表" open=true >}}
 * <i class='SpellIcon charm'></i> 硬硬堅 (Duro) – 硬化咒
-* <i class='SpellIcon charm'></i> 人人現 (Homenum Revelio) – Reveal Person Charm 
+* <i class='SpellIcon charm'></i> 人人現 (Homenum Revelio) – 現身咒
 * <i class='SpellIcon charm'></i> 破破心 (Legillimens) – 破心術 
 * <i class='SpellIcon charm'></i> 空空，遺忘 (Obliviate) – 記憶咒  
 * <i class='SpellIcon charm'></i> 港口現 (Portus) – 可把任何物品變成港口鑰*** 
-* <i class='SpellIcon transfigure'></i> Baubillious – Lightning-Conjuring Spell 
-* <i class='SpellIcon hex'></i> 倒倒吊 (Levicorpus) – Body-Lifting Hex
-* <i class='SpellIcon hex'></i> Mutatio – Mutation Hex 
-* <i class='SpellIcon hex'></i> Redactum – Shrinking Hex 
-* <i class='SpellIcon hex'></i> Vermiculus – Worm Hex
-* <i class='SpellIcon curse'></i> Confrigo – Blasting Curse 
-* <i class='SpellIcon defence'></i> 固若金湯 (Fianto Duri) – Increase Protection Spell 
+* <i class='SpellIcon transfigure'></i> 爆爆雷流 (Baubillious) – 閃電召喚咒
+* <i class='SpellIcon hex'></i> 倒倒吊 (Levicorpus) – 身體倒吊咒
+* <i class='SpellIcon hex'></i> 異異生變 (Mutatio) – 突變毒咒
+* <i class='SpellIcon hex'></i> 暴暴縮 (Redactum) – 縮水咒
+* <i class='SpellIcon hex'></i> 蠕蠕扭 (Vermiculus) – 蠕蟲變形咒
+* <i class='SpellIcon curse'></i> 破破爆 (Confrigo) – 爆破惡咒
+* <i class='SpellIcon defence'></i> 固若金湯 (Fianto Duri) – 強化防護咒
 * <i class='SpellIcon healing'></i> 補血藥
 * <i class='SpellIcon potion'></i> 歡欣劑
 * <i class='SpellIcon potion'></i> 福來福喜 – 幸運水
