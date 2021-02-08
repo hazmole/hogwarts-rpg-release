@@ -2,7 +2,7 @@
 
 baseURL = 'https://hazmole.github.io/hogwarts-rpg-release'
 title = '霍格華茲RPG'
-theme = 'hugo-book'
+theme = 'book'
 publishDir = "docs"
 
 # Book configuration
