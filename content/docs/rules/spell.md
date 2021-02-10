@@ -54,7 +54,7 @@ weight: 7
 * <i class='SpellIcon charm'></i> 阿咯哈姆拉 (Alohamora) – 開鎖咒
 * <i class='SpellIcon charm'></i> 彩彩，變樣 (Colovaria) – 變色咒
 * <i class='SpellIcon charm'></i> 啾啾縮 (Diminuendo) – 收縮咒
-* <i class='SpellIcon charm'></i> 路摸思 (Lumos) –魔杖照明咒
+* <i class='SpellIcon charm'></i> 路摸思 (Lumos) – 魔杖照明咒
 * <i class='SpellIcon charm'></i> 啪銳喀錀 (Periculum) – 紅色火花咒
 * <i class='SpellIcon charm'></i> 綿綿散 (Spongify) – 軟化咒
 * <i class='SpellIcon charm'></i> 哆哆潔 (Tergeo) – 清潔咒
@@ -175,7 +175,7 @@ weight: 7
 * <i class='SpellIcon hex'></i> 呱呱身變 (Pullus) – 雞/鵝變形咒 
 * <i class='SpellIcon curse'></i> 雙雙製 (Geminio) – 複製物品惡咒 
 * <i class='SpellIcon healing'></i> 骨骨復 (Emendo) – 骨頭癒合咒 
-* <i class='SpellIcon potion'></i> 一飲活死水 (魔藥) 一種強效的安眠藥
+* <i class='SpellIcon potion'></i> 一飲活死水 (魔藥) – 一種強效的安眠藥
 * <i class='SpellIcon potion'></i> 鎖喉毒氣 – 窒息魔藥
 * <i class='SpellIcon potion'></i> 增強劑
 * <i class='SpellIcon potion'></i> 吐真劑 – 能讓人說出真話的魔藥

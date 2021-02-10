@@ -9,6 +9,13 @@ publishDir = "docs"
 disablePathToLower = true
 enableGitInfo = false
 
+[menu]
+[[menu.after]]
+  name = "⇗ 線上角色卡"
+  url = "https://docs.google.com/spreadsheets/d/1BfsBwAwNvgE0K5zzGfFAYZ9Hi8REGCVvjdXCd964EI4"
+  weight = 10
+
+
 # Needed for mermaid/katex shortcodes
 [markup]
 [markup.goldmark.renderer]
@@ -16,6 +23,7 @@ enableGitInfo = false
 
 [markup.tableOfContents]
   startLevel = 1
+
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
