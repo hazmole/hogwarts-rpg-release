@@ -30,4 +30,5 @@ J.K. 羅琳、布魯姆斯伯裏出版社、美國學樂教育集團、以及華
 <a href='https://davidbrunellbrutman.com/'>davidbrunellbrutman.com</a></div>
 
 <div style='font-size:0.6em; margin-top:20px;'>
-翻譯：Audiace, Hazmole</div>
+翻譯：Audiace, Hazmole<br/>
+<a href='https://hazmole.github.io/Free-Open-TRPG-Translation'>〈免費開源 TRPG 中文化團隊〉</a></div>
