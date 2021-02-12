@@ -15,6 +15,10 @@ enableGitInfo = false
   url = "https://docs.google.com/spreadsheets/d/1BfsBwAwNvgE0K5zzGfFAYZ9Hi8REGCVvjdXCd964EI4"
   weight = 10
 
+[[menu.after]]
+  name = "⇗ ccfolia 盤面素材"
+  url = "https://yusuke0405.booth.pm/items/2742763"
+  weight = 20
 
 # Needed for mermaid/katex shortcodes
 [markup]
